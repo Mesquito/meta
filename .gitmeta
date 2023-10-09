@@ -1,29 +1,17 @@
-commit QmYodQAKd5MjtboUPVeUWNyjEaG9VaJSBaY5fkCTvyMN9p
+commit QmWeow1gR6dBftBXFZgEdXdEo3LHetHr3KK963q8hq23hQ
 Branch: main
 
 ------------------------------
 
 chown -h 1000:1000 './.gitmeta'
 chmod 0777 './.gitmeta'
-/usr/bin/touch -hcmd "2023-10-09 00:04:05.1428229000 -0300" './.gitmeta'
-/usr/bin/touch -hcad "2023-10-09 00:04:05.1444668000 -0300" './.gitmeta'
+/usr/bin/touch -hcmd "2023-10-09 00:13:35.3319582000 -0300" './.gitmeta'
+/usr/bin/touch -hcad "2023-10-09 00:08:52.9518351000 -0300" './.gitmeta'
 chown -h 1000:1000 './.gitmeta-cid'
 chmod 0777 './.gitmeta-cid'
-/usr/bin/touch -hcmd "2023-10-09 00:04:05.0868591000 -0300" './.gitmeta-cid'
-/usr/bin/touch -hcad "2023-10-09 00:04:05.0252950000 -0300" './.gitmeta-cid'
-chown -h 1000:1000 './Crente Gaga/Untitled Document'
-chmod 0777 './Crente Gaga/Untitled Document'
-/usr/bin/touch -hcmd "2023-10-08 23:53:44.4754666000 -0300" './Crente Gaga/Untitled Document'
-/usr/bin/touch -hcad "2023-10-08 23:53:44.8061612000 -0300" './Crente Gaga/Untitled Document'
-chown -h 1000:1000 './Sparse-to-MERGE.txt'
-chmod 0777 './Sparse-to-MERGE.txt'
-/usr/bin/touch -hcmd "2023-10-08 23:56:04.7028977000 -0300" './Sparse-to-MERGE.txt'
-/usr/bin/touch -hcad "2023-10-09 00:03:59.1760243000 -0300" './Sparse-to-MERGE.txt'
-chown -h 1000:1000 './Super Canarinho/Ep6/OSegundoEPGrvdEmCvl'
-chmod 0777 './Super Canarinho/Ep6/OSegundoEPGrvdEmCvl'
-/usr/bin/touch -hcmd "2023-10-08 23:58:36.0825082000 -0300" './Super Canarinho/Ep6/OSegundoEPGrvdEmCvl'
-/usr/bin/touch -hcad "2023-10-08 23:58:36.4127246000 -0300" './Super Canarinho/Ep6/OSegundoEPGrvdEmCvl'
-chown -h 1000:1000 './Super Canarinho/toMergeIdeas'
-chmod 0777 './Super Canarinho/toMergeIdeas'
-/usr/bin/touch -hcmd "2023-10-09 00:03:44.5443349000 -0300" './Super Canarinho/toMergeIdeas'
-/usr/bin/touch -hcad "2023-10-09 00:03:44.8881940000 -0300" './Super Canarinho/toMergeIdeas'
+/usr/bin/touch -hcmd "2023-10-09 00:13:35.2625586000 -0300" './.gitmeta-cid'
+/usr/bin/touch -hcad "2023-10-09 00:13:35.3245294000 -0300" './.gitmeta-cid'
+chown -h 1000:1000 './Wilson/Untitled Document'
+chmod 0777 './Wilson/Untitled Document'
+/usr/bin/touch -hcmd "2023-10-09 00:13:22.4485366000 -0300" './Wilson/Untitled Document'
+/usr/bin/touch -hcad "2023-10-09 00:13:22.8531204000 -0300" './Wilson/Untitled Document'
