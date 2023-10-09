@@ -1,0 +1,92 @@
+This folder: /media/daniella/B/git/danimesq/YT-TTK/Mesquito/Site
+
+  File: ./add Mesquito Wikia
+  Size: 3586      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4067046     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-10-07 20:29:20.468182900 -0300
+Modify: 2023-10-07 20:28:29.369750300 -0300
+Change: 2023-10-07 20:28:29.702376100 -0300
+ Birth: -
+IPFS hash: QmZVnsaAARiUGbVjgX273WPLwg8gndyG85tD922YpHRHwi
+------------------------------
+  File: ./CNAME
+  Size: 11        	Blocks: 1          IO Block: 4096   regular file
+Device: 8,20	Inode: 3096658     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-06-29 15:39:16.108061700 -0300
+Modify: 2019-04-18 21:34:22.000000000 -0300
+Change: 2023-06-29 15:38:56.869589400 -0300
+ Birth: -
+IPFS hash: QmeyNZak1KmMyJH6BzdipnF2CDytAXd5xQr84hXgjRJmkj
+------------------------------
+  File: ./favicon-1.svg
+  Size: 475469    	Blocks: 936        IO Block: 4096   regular file
+Device: 8,20	Inode: 4069184     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-10-07 20:39:46.245468900 -0300
+Modify: 2023-10-07 20:39:43.656072400 -0300
+Change: 2023-10-07 20:39:52.774317600 -0300
+ Birth: -
+IPFS hash: QmNq4sJC2KeCdQWtJpovzeDoNpSaXQPxSE1F22aBSFMEvA
+------------------------------
+  File: ./favicon-2.svg
+  Size: 10885     	Blocks: 24         IO Block: 4096   regular file
+Device: 8,20	Inode: 4069188     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-10-07 20:40:43.282375800 -0300
+Modify: 2023-10-07 20:40:40.933898700 -0300
+Change: 2023-10-07 20:40:40.933898700 -0300
+ Birth: -
+IPFS hash: QmUEfkcFmveuQaRtPwrVRfEyYzwGLYhR6qfMpiWqkJh9Dx
+------------------------------
+  File: ./favicon.ico
+  Size: 5430      	Blocks: 16         IO Block: 4096   regular file
+Device: 8,20	Inode: 4039258     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-10-07 20:16:50.960207500 -0300
+Modify: 2023-10-07 20:15:50.558603000 -0300
+Change: 2023-10-07 20:16:18.112153300 -0300
+ Birth: -
+IPFS hash: QmaAZeCfTks8pPS2j7nvgwMBJJNjG2ott9ojCHHNdaULSk
+------------------------------
+  File: ./favicon.png
+  Size: 386655    	Blocks: 760        IO Block: 4096   regular file
+Device: 8,20	Inode: 4039256     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-10-07 20:16:09.728371800 -0300
+Modify: 2017-02-25 15:24:57.847492000 -0300
+Change: 2023-10-07 20:14:27.361592600 -0300
+ Birth: -
+IPFS hash: QmTEBmKipnUpCkQgKvmVwzrPsWysPM66C5PRbqZ6cGW285
+------------------------------
+  File: ./index.html
+  Size: 7532      	Blocks: 16         IO Block: 4096   regular file
+Device: 8,20	Inode: 4039297     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-10-07 20:19:39.599772200 -0300
+Modify: 2023-10-07 20:19:07.198348900 -0300
+Change: 2023-10-07 20:19:07.284075500 -0300
+ Birth: -
+IPFS hash: QmUEJ1NhVqiAUgxSWC7tZrU3Gs5wzz9Ub7c5Dkh4rN5xR2
+------------------------------
+  File: ./photos.png
+  Size: 198128    	Blocks: 392        IO Block: 4096   regular file
+Device: 8,20	Inode: 3096663     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-24 23:15:21.092277800 -0300
+Modify: 2019-04-18 21:34:22.000000000 -0300
+Change: 2023-06-29 15:38:57.243114900 -0300
+ Birth: -
+IPFS hash: Qmf27SZE719uaUrtcJYJBUXCTSjDdkfkJPnV4sudmMJsyE
+------------------------------
+  File: ./Tasks.txt
+  Size: 368       	Blocks: 1          IO Block: 4096   regular file
+Device: 8,20	Inode: 4042960     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-10-07 20:23:38.217490500 -0300
+Modify: 2023-10-07 20:23:30.983852500 -0300
+Change: 2023-10-07 20:23:31.067269400 -0300
+ Birth: -
+IPFS hash: QmUTxw2XeHMLRXWjbKP7q1pzLs9QxQzVuXevHMYHfCchsm
+------------------------------
