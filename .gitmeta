@@ -1,17 +1,17 @@
-commit QmduoLeFn3JcTgpRRpZcfbiWtyv5W2cMtoG6PKWXrXYzYf
+commit QmWeow1gR6dBftBXFZgEdXdEo3LHetHr3KK963q8hq23hQ
 Branch: main
 
 ------------------------------
 
 chown -h 1000:1000 './.gitmeta'
 chmod 0777 './.gitmeta'
-/usr/bin/touch -hcmd "2023-10-13 20:43:05.5039429000 -0300" './.gitmeta'
-/usr/bin/touch -hcad "2023-10-13 20:42:58.8764168000 -0300" './.gitmeta'
+/usr/bin/touch -hcmd "2023-10-13 20:44:17.6006803000 -0300" './.gitmeta'
+/usr/bin/touch -hcad "2023-10-13 20:43:05.5469754000 -0300" './.gitmeta'
 chown -h 1000:1000 './.gitmeta-cid'
 chmod 0777 './.gitmeta-cid'
-/usr/bin/touch -hcmd "2023-10-13 20:43:05.4550024000 -0300" './.gitmeta-cid'
-/usr/bin/touch -hcad "2023-10-13 20:43:05.4955963000 -0300" './.gitmeta-cid'
-chown -h 1000:1000 './Esquetes/Super Canarinho/toMergeIdeas'
-chmod 0777 './Esquetes/Super Canarinho/toMergeIdeas'
-/usr/bin/touch -hcmd "2023-10-13 20:42:48.4643374000 -0300" './Esquetes/Super Canarinho/toMergeIdeas'
-/usr/bin/touch -hcad "2023-10-13 20:43:04.0171818000 -0300" './Esquetes/Super Canarinho/toMergeIdeas'
+/usr/bin/touch -hcmd "2023-10-13 20:44:17.5291368000 -0300" './.gitmeta-cid'
+/usr/bin/touch -hcad "2023-10-13 20:44:17.5888968000 -0300" './.gitmeta-cid'
+chown -h 1000:1000 './Esquetes/Astolfo/Untitled Document'
+chmod 0777 './Esquetes/Astolfo/Untitled Document'
+/usr/bin/touch -hcmd "2023-10-13 20:44:03.5622981000 -0300" './Esquetes/Astolfo/Untitled Document'
+/usr/bin/touch -hcad "2023-10-13 20:44:03.9524726000 -0300" './Esquetes/Astolfo/Untitled Document'
