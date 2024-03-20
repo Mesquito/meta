@@ -14,3 +14,6 @@ unknown character to be made:
 "eles recebem entregas aéreas!"
 - "tipo drones da Amazon?"
 "nao. os proprios insetos sem querer se entregam!"
+
+"se o problema de saude poderia ser resolvido com matematica. o que a professora virou?"
+- "virou aritmédica!"

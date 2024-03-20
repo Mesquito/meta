@@ -1,25 +1,26 @@
-commit QmcLvj9h3EDa1DQbRN9xzzmYyUB7arvcdqutMQy8Bb4ZY7
+commit Qmcf2rWUVmEKnX4P11TCeRQ3BdFBcaJNZSxNYe5ykUcrCP
 Branch: main
+Signed-off by: danimesq.eth (0xDDfC2e10702d8A781727A34D83B3bb3CA94a3E91)
+Signature: 813ad2c15adda3e5c366268fdc9df4426be216517df75251210a1a6344a97c1505fd4fe9a0935af5790fdab0550cc4ea9348382670fc32ca1ef7bb75581bd2bd00
 
 ------------------------------
 
-chown -h 1000:1000 './.gitmeta'
-chmod 0777 './.gitmeta'
-/usr/bin/touch -hcmd "2023-11-12 02:47:33.1122674000 -0300" './.gitmeta'
-/usr/bin/touch -hcad "2023-11-12 02:47:33.1143140000 -0300" './.gitmeta'
-chown -h 1000:1000 './.gitmeta-cid'
-chmod 0777 './.gitmeta-cid'
-/usr/bin/touch -hcmd "2023-11-12 02:47:33.0428378000 -0300" './.gitmeta-cid'
-/usr/bin/touch -hcad "2023-11-12 02:47:32.9040358000 -0300" './.gitmeta-cid'
-chown -h 1000:1000 './Resources/Music/.folderstamp1'
-chmod 0777 './Resources/Music/.folderstamp1'
-/usr/bin/touch -hcmd "2023-10-15 18:02:39.3773319000 -0300" './Resources/Music/.folderstamp1'
-/usr/bin/touch -hcad "2023-10-20 22:08:22.2728880000 -0300" './Resources/Music/.folderstamp1'
-chown -h 1000:1000 './Resources/Music/Insp instru/.folderstamp1'
-chmod 0777 './Resources/Music/Insp instru/.folderstamp1'
-/usr/bin/touch -hcmd "2023-10-15 18:02:02.0442731000 -0300" './Resources/Music/Insp instru/.folderstamp1'
-/usr/bin/touch -hcad "2023-10-15 18:02:37.2026985000 -0300" './Resources/Music/Insp instru/.folderstamp1'
-chown -h 1000:1000 './Resources/Music/Tasks'
-chmod 0777 './Resources/Music/Tasks'
-/usr/bin/touch -hcmd "2023-10-15 18:02:30.2419577000 -0300" './Resources/Music/Tasks'
-/usr/bin/touch -hcad "2023-10-15 18:02:30.5997621000 -0300" './Resources/Music/Tasks'
+.gitmeta version: r6
+Local folder: /media/daniella/B/git/danimesq/Entertainment/YT-TTK/Mesquito/&meta
+Remote Name: origin
+Remote URL: https://github.com/Mesquito/meta.git
+
+------------------------------
+
+chown -h 1000:1000 './.folderstamp1'
+chmod 0755 './.folderstamp1'
+/usr/bin/touch -hcmd "2024-03-19 22:41:27.6749790000 -0300" './.folderstamp1'
+/usr/bin/touch -hcad "2024-03-19 22:50:07.7959795000 -0300" './.folderstamp1'
+chown -h 1000:1000 './.folderstamp1.log.html5'
+chmod 0664 './.folderstamp1.log.html5'
+/usr/bin/touch -hcmd "2024-03-19 22:44:10.5344407000 -0300" './.folderstamp1.log.html5'
+/usr/bin/touch -hcad "2024-03-19 22:50:08.0559852000 -0300" './.folderstamp1.log.html5'
+chown -h 1000:1000 './Sparse-to-MERGE.txt'
+chmod 0755 './Sparse-to-MERGE.txt'
+/usr/bin/touch -hcmd "2024-03-19 22:50:42.3327471000 -0300" './Sparse-to-MERGE.txt'
+/usr/bin/touch -hcad "2024-03-19 22:51:04.0612415000 -0300" './Sparse-to-MERGE.txt'
