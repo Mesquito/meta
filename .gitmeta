@@ -1,7 +1,7 @@
-commit Qmcf2rWUVmEKnX4P11TCeRQ3BdFBcaJNZSxNYe5ykUcrCP
+commit Qmd5ZbMDfSoYzTjrU1Ab5TdJeePpPjWFt1exbthoc4ZUed
 Branch: main
 Signed-off by: danimesq.eth (0xDDfC2e10702d8A781727A34D83B3bb3CA94a3E91)
-Signature: 813ad2c15adda3e5c366268fdc9df4426be216517df75251210a1a6344a97c1505fd4fe9a0935af5790fdab0550cc4ea9348382670fc32ca1ef7bb75581bd2bd00
+Signature: 70f4d9826c269b91cafac805bba48f01971ce7b6ea4bfa7f92770b6d858bd5bc6e00ab60e3b9ac3e91680fb6406e2dc36a6c33dd96412a69cf4f97ca1acda0f600
 
 ------------------------------
 
@@ -12,15 +12,51 @@ Remote URL: https://github.com/Mesquito/meta.git
 
 ------------------------------
 
-chown -h 1000:1000 './.folderstamp1'
-chmod 0755 './.folderstamp1'
-/usr/bin/touch -hcmd "2024-03-19 22:41:27.6749790000 -0300" './.folderstamp1'
-/usr/bin/touch -hcad "2024-03-19 22:50:07.7959795000 -0300" './.folderstamp1'
-chown -h 1000:1000 './.folderstamp1.log.html5'
-chmod 0664 './.folderstamp1.log.html5'
-/usr/bin/touch -hcmd "2024-03-19 22:44:10.5344407000 -0300" './.folderstamp1.log.html5'
-/usr/bin/touch -hcad "2024-03-19 22:50:08.0559852000 -0300" './.folderstamp1.log.html5'
+chown -h 1000:1000 './Esquetes/Crente Gaga/Untitled Document'
+chmod 0755 './Esquetes/Crente Gaga/Untitled Document'
+/usr/bin/touch -hcmd "2024-03-21 17:26:34.2973864000 -0300" './Esquetes/Crente Gaga/Untitled Document'
+/usr/bin/touch -hcad "2024-03-21 17:31:55.8032560000 -0300" './Esquetes/Crente Gaga/Untitled Document'
+chown -h 1000:1000 './Esquetes/Danielldorado/Untitled Document'
+chmod 0755 './Esquetes/Danielldorado/Untitled Document'
+/usr/bin/touch -hcmd "2024-03-21 17:28:34.1004760000 -0300" './Esquetes/Danielldorado/Untitled Document'
+/usr/bin/touch -hcad "2024-03-21 17:31:55.8032560000 -0300" './Esquetes/Danielldorado/Untitled Document'
+chown -h 1000:1000 './Esquetes/Dr Cotonete/.folderstamp1'
+chmod 0664 './Esquetes/Dr Cotonete/.folderstamp1'
+/usr/bin/touch -hcmd "2023-12-17 02:09:49.1755576000 -0300" './Esquetes/Dr Cotonete/.folderstamp1'
+/usr/bin/touch -hcad "2024-03-21 17:31:55.8992555000 -0300" './Esquetes/Dr Cotonete/.folderstamp1'
+chown -h 1000:1000 './Esquetes/Dr Cotonete/.folderstamp2'
+chmod 0664 './Esquetes/Dr Cotonete/.folderstamp2'
+/usr/bin/touch -hcmd "2023-12-17 02:10:16.0153849000 -0300" './Esquetes/Dr Cotonete/.folderstamp2'
+/usr/bin/touch -hcad "2024-03-21 17:31:55.8992555000 -0300" './Esquetes/Dr Cotonete/.folderstamp2'
+chown -h 1000:1000 './Esquetes/Dr Cotonete/Bordoes'
+chmod 0664 './Esquetes/Dr Cotonete/Bordoes'
+/usr/bin/touch -hcmd "2024-03-21 17:29:05.6642617000 -0300" './Esquetes/Dr Cotonete/Bordoes'
+/usr/bin/touch -hcad "2024-03-21 17:31:55.9152555000 -0300" './Esquetes/Dr Cotonete/Bordoes'
+chown -h 1000:1000 './Esquetes/Pituzito/Untitled Document'
+chmod 0755 './Esquetes/Pituzito/Untitled Document'
+/usr/bin/touch -hcmd "2024-03-21 17:30:36.7036947000 -0300" './Esquetes/Pituzito/Untitled Document'
+/usr/bin/touch -hcad "2024-03-21 17:31:55.8792556000 -0300" './Esquetes/Pituzito/Untitled Document'
+chown -h 1000:1000 './Esquetes/Wilson/Untitled Document-2'
+chmod 0755 './Esquetes/Wilson/Untitled Document-2'
+/usr/bin/touch -hcmd "2024-02-11 04:40:41.1563896000 -0300" './Esquetes/Wilson/Untitled Document-2'
+/usr/bin/touch -hcad "2024-03-21 17:31:55.9152555000 -0300" './Esquetes/Wilson/Untitled Document-2'
+chown -h 1000:1000 './Esquetes/Wilson/Untitled Document-3'
+chmod 0755 './Esquetes/Wilson/Untitled Document-3'
+/usr/bin/touch -hcmd "2024-02-17 18:20:54.0969648000 -0300" './Esquetes/Wilson/Untitled Document-3'
+/usr/bin/touch -hcad "2024-03-21 17:31:13.2834861000 -0300" './Esquetes/Wilson/Untitled Document-3'
 chown -h 1000:1000 './Sparse-to-MERGE.txt'
 chmod 0755 './Sparse-to-MERGE.txt'
-/usr/bin/touch -hcmd "2024-03-19 22:50:42.3327471000 -0300" './Sparse-to-MERGE.txt'
-/usr/bin/touch -hcad "2024-03-19 22:51:04.0612415000 -0300" './Sparse-to-MERGE.txt'
+/usr/bin/touch -hcmd "2024-03-21 17:22:58.3635245000 -0300" './Sparse-to-MERGE.txt'
+/usr/bin/touch -hcad "2024-03-21 17:31:55.8992555000 -0300" './Sparse-to-MERGE.txt'
+chown -h 1000:1000 './Z-NotSoFunny/Esquetes/Danielldorado/Untitled Document'
+chmod 0664 './Z-NotSoFunny/Esquetes/Danielldorado/Untitled Document'
+/usr/bin/touch -hcmd "2024-03-21 17:28:35.1124690000 -0300" './Z-NotSoFunny/Esquetes/Danielldorado/Untitled Document'
+/usr/bin/touch -hcad "2024-03-21 17:31:55.9432553000 -0300" './Z-NotSoFunny/Esquetes/Danielldorado/Untitled Document'
+chown -h 1000:1000 './Z-NotSoFunny/Esquetes/Pituzito/Untitled Document'
+chmod 0664 './Z-NotSoFunny/Esquetes/Pituzito/Untitled Document'
+/usr/bin/touch -hcmd "2024-03-21 17:30:37.7956883000 -0300" './Z-NotSoFunny/Esquetes/Pituzito/Untitled Document'
+/usr/bin/touch -hcad "2024-03-21 17:31:55.9752551000 -0300" './Z-NotSoFunny/Esquetes/Pituzito/Untitled Document'
+chown -h 1000:1000 './Z-NotSoFunny/Sparse-to-MERGE.txt'
+chmod 0664 './Z-NotSoFunny/Sparse-to-MERGE.txt'
+/usr/bin/touch -hcmd "2024-03-21 17:22:55.4715586000 -0300" './Z-NotSoFunny/Sparse-to-MERGE.txt'
+/usr/bin/touch -hcad "2024-03-21 17:31:55.9752551000 -0300" './Z-NotSoFunny/Sparse-to-MERGE.txt'
