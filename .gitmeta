@@ -1,7 +1,7 @@
-commit Qmbdk91mVjpL4eRxeY2nsxHtZaBwcZvXTG359hBTLrp1Xk
+commit QmZ8M3kNZDMXGeCfvHXxdKVqmjD2Usm8N5meBg7WLXrLCY
 Branch: main
 Signed-off by: danimesq.eth (0xDDfC2e10702d8A781727A34D83B3bb3CA94a3E91)
-Signature: 18f70149de5251ae6127132657a1f030127fc6f3db8d9fbe60694ecd81325d9015bea5ac90f716d5ee46a7575c7afdcab8009699321ed1753a697efdde02cb3e00
+Signature: 4f6c2784821d4c5b19dbb3089ac9e1b1cf70f6b0f1a2bb65f59269f4f947f6344221fe5163143ab4a24f38c3f9f745567c45c4ec90a5fb5be0f63e5abe43bc5001
 
 ------------------------------
 
@@ -12,43 +12,3 @@ Remote URL: https://github.com/Mesquito/meta.git
 
 ------------------------------
 
-chown -h 1000:1000 './Esquetes/Super Canarinho/Ep5/OPrimeiroEPGrvdEmCvl'
-chmod 0755 './Esquetes/Super Canarinho/Ep5/OPrimeiroEPGrvdEmCvl'
-/usr/bin/touch -hcmd "2024-03-21 18:37:34.5616167000 -0300" './Esquetes/Super Canarinho/Ep5/OPrimeiroEPGrvdEmCvl'
-/usr/bin/touch -hcad "2024-03-21 18:43:01.1233919000 -0300" './Esquetes/Super Canarinho/Ep5/OPrimeiroEPGrvdEmCvl'
-chown -h 1000:1000 './Esquetes/Super Canarinho/Ep6/OSegundoEPGrvdEmCvl'
-chmod 0755 './Esquetes/Super Canarinho/Ep6/OSegundoEPGrvdEmCvl'
-/usr/bin/touch -hcmd "2024-03-21 18:42:26.8102653000 -0300" './Esquetes/Super Canarinho/Ep6/OSegundoEPGrvdEmCvl'
-/usr/bin/touch -hcad "2024-03-21 18:43:01.4434022000 -0300" './Esquetes/Super Canarinho/Ep6/OSegundoEPGrvdEmCvl'
-chown -h 1000:1000 './Esquetes/Super Canarinho/Ep7/Untitled Document'
-chmod 0755 './Esquetes/Super Canarinho/Ep7/Untitled Document'
-/usr/bin/touch -hcmd "2024-03-21 18:26:06.4224940000 -0300" './Esquetes/Super Canarinho/Ep7/Untitled Document'
-/usr/bin/touch -hcad "2024-03-21 18:43:01.4594027000 -0300" './Esquetes/Super Canarinho/Ep7/Untitled Document'
-chown -h 1000:1000 './Esquetes/Super Canarinho/toMergeIdeas'
-chmod 0755 './Esquetes/Super Canarinho/toMergeIdeas'
-/usr/bin/touch -hcmd "2024-03-21 18:03:26.4684973000 -0300" './Esquetes/Super Canarinho/toMergeIdeas'
-/usr/bin/touch -hcad "2024-03-21 18:43:01.4634028000 -0300" './Esquetes/Super Canarinho/toMergeIdeas'
-chown -h 1000:1000 './Esquetes/Wilson/Bordoes'
-chmod 0664 './Esquetes/Wilson/Bordoes'
-/usr/bin/touch -hcmd "2024-03-21 17:41:14.0032618000 -0300" './Esquetes/Wilson/Bordoes'
-/usr/bin/touch -hcad "2024-03-21 17:41:25.9907312000 -0300" './Esquetes/Wilson/Bordoes'
-chown -h 1000:1000 './Esquetes/Wilson/Untitled Document'
-chmod 0755 './Esquetes/Wilson/Untitled Document'
-/usr/bin/touch -hcmd "2024-03-21 17:41:13.0073063000 -0300" './Esquetes/Wilson/Untitled Document'
-/usr/bin/touch -hcad "2024-03-21 17:41:22.3588911000 -0300" './Esquetes/Wilson/Untitled Document'
-chown -h 1000:1000 './Sparse-to-MERGE.txt'
-chmod 0755 './Sparse-to-MERGE.txt'
-/usr/bin/touch -hcmd "2024-03-21 17:49:31.3382300000 -0300" './Sparse-to-MERGE.txt'
-/usr/bin/touch -hcad "2024-03-21 18:43:01.4714031000 -0300" './Sparse-to-MERGE.txt'
-chown -h 1000:1000 './Z-NotSoFunny/Esquetes/Super Canarinho/Ep5/OPrimeiroEPGrvdEmCvl'
-chmod 0664 './Z-NotSoFunny/Esquetes/Super Canarinho/Ep5/OPrimeiroEPGrvdEmCvl'
-/usr/bin/touch -hcmd "2024-03-21 18:37:21.9414806000 -0300" './Z-NotSoFunny/Esquetes/Super Canarinho/Ep5/OPrimeiroEPGrvdEmCvl'
-/usr/bin/touch -hcad "2024-03-21 18:43:01.5154045000 -0300" './Z-NotSoFunny/Esquetes/Super Canarinho/Ep5/OPrimeiroEPGrvdEmCvl'
-chown -h 1000:1000 './Z-NotSoFunny/Esquetes/Super Canarinho/Ep6/OSegundoEPGrvdEmCvl'
-chmod 0664 './Z-NotSoFunny/Esquetes/Super Canarinho/Ep6/OSegundoEPGrvdEmCvl'
-/usr/bin/touch -hcmd "2024-03-21 18:42:25.6862275000 -0300" './Z-NotSoFunny/Esquetes/Super Canarinho/Ep6/OSegundoEPGrvdEmCvl'
-/usr/bin/touch -hcad "2024-03-21 18:43:01.5154045000 -0300" './Z-NotSoFunny/Esquetes/Super Canarinho/Ep6/OSegundoEPGrvdEmCvl'
-chown -h 1000:1000 './Z-NotSoFunny/Esquetes/Super Canarinho/toMergeIdeas'
-chmod 0664 './Z-NotSoFunny/Esquetes/Super Canarinho/toMergeIdeas'
-/usr/bin/touch -hcmd "2024-03-21 18:03:22.7205648000 -0300" './Z-NotSoFunny/Esquetes/Super Canarinho/toMergeIdeas'
-/usr/bin/touch -hcad "2024-03-21 18:43:01.5194046000 -0300" './Z-NotSoFunny/Esquetes/Super Canarinho/toMergeIdeas'
